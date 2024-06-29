@@ -13,7 +13,7 @@ To run the Quant Market Predictor, you'll need Python installed on your system. 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ahmad-masud/quant-market-predictor.git
+   git clone https://github.com/hpat21/quant-market-predictor.git
    ```
 2. Navigate to the project directory:
    ```sh
