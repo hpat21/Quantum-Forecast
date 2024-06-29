@@ -1,5 +1,4 @@
 # Quant Market Predictor
-![QET](resources/qmp.gif)
 
 ## Overview
 Quant Market Predictor is a Python-based tool designed to forecast future stock prices using historical market data from NASDAQ. Utilizing Linear Regression to make a Statistics Model, this project aims to provide users with insights into potential future market prices.
